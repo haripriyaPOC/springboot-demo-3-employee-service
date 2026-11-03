@@ -17,7 +17,7 @@ spec:
       containers:
         - name: employee-service
           # Replace with your registry/image, for example: docker.io/YOUR_DOCKERHUB_USER/employee-service:1.0.0
-          image: haripriya1310/demo2-backend:v1
+          image: haripriya1310/demo3-backend:v1
           ports:
             - name: http
               containerPort: 8080
